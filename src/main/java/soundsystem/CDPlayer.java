@@ -11,7 +11,7 @@ public class CDPlayer implements MediaPlayer {
 
     @Autowired
     private CompactDisc cd;
-    
+
 
     @Override
     public void play() {
